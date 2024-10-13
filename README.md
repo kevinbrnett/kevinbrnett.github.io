@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, Supervised & Unsupervised Machine Learning, Deep Learning, Tableau, Pandas, Tensorflow, Pytorch, Keras, Matplotlib
 
 ## Education
 - Bootcamp, Data Science | Coding Dojo (_June 2023_)								       		
