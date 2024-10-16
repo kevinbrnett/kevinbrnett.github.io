@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist/Analyst
 
 #### Technical Skills: Python, SQL, Supervised & Unsupervised Machine Learning, Deep Learning, Tableau, Pandas, Tensorflow, Pytorch, Keras, Matplotlib
 
@@ -11,4 +11,4 @@
 **should I even keep (_June 2022 - Present_)**
 
 ## Projects
-### project 1
+### Fall Prediction Model
